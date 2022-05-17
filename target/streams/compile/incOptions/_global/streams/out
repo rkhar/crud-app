@@ -1,0 +1,41 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/rkhar/Desktop/own/crud-app/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonMapRepository$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request$Request.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request$CreatePersonRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonMapRepository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$PersonAlreadyExistsResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$Response.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryFailure$UnexpectedFa1lure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryEnvironment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$InvalidInputResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$PersonNotFoundResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$PersonNotFoundResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request$CreatePersonRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonRepository$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryFailure$UnexpectedFa1lure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryFailure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Controller$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryFailure$RepositoryFailure.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryFailure$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Repository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PersonRepository.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request$UpdatePersonRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$PersonAlreadyExistsResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Response$InvalidInputResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Api.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Request$UpdatePersonRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RepositoryEnvironment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/rkhar/Desktop/own/crud-app/target/scala-2.13/classes.bak[0m
