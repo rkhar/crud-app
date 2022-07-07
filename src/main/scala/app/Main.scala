@@ -14,7 +14,13 @@ object Main extends zio.App {
   val localApplicationEnvironment: ZLayer[Any, Nothing, Console with Has[Repository]] = Console.live ++ RepositoryEnvironment.map
 
   def run(args: List[String]): ZIO[ZEnv, Nothing, ExitCode] = {
-    program().provideLayer(localApplicationEnvironment).exitCode
+    val env = args.headOption.getOrElse("console")
+
+    if (env == "console")
+      program().provideLayer(localApplicationEnvironment).exitCode
+    else
+      program().provideLayer(localApplicationEnvironment).exitCode
+
   }
 
   def program(): ZIO[ApplicationEnvironment, Nothing, Int] =
